@@ -1,12 +1,3 @@
-/*
-// １．三つ以上の数字に対応したいです。
-// ２．割り算の例外処理。
-// ３.sin,cos,tan以外でも対応できる。　3^4，3! nCr Σ Π
-4.第一項が負だったときの対応
-5.乗除は加減より優先
-6. 括弧への対応
-7. 文字列解析にregular expを使う
-*/
 #include <bits/stdc++.h>
 #include <cmath>
 #include <math.h>
